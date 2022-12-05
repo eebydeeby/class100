@@ -9,10 +9,10 @@ In time, I hope to draft a recommended reading list using only listed materials.
 
 Currently, the directory is structured in this way:
 
-## Axiology
-## Epistemology
-## Logic
-### Formal logic
-## Metaphysics
-## General philosophy
-### History of philosophy
+- Axiology
+- Epistemology
+- Logic
+  - Formal logic
+- Metaphysics
+- General philosophy
+  - History of philosophy
