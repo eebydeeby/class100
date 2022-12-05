@@ -11,8 +11,8 @@ Currently, the directory is structured in this way:
 
 - Axiology
 - Epistemology
+- General Philosophy
+  - History of Philosophy
 - Logic
-  - Formal logic
+  - Formal Logic
 - Metaphysics
-- General philosophy
-  - History of philosophy
