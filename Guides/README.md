@@ -1,1 +1,1 @@
-### Getting Started with Philosophy
+# Getting Started with Philosophy
