@@ -22,4 +22,4 @@ Currently, the directory is structured in this way:
 
 The class100 directory is provided under a Creative Commons licence.
 
-The content shared through this directory is the property of its respective owners.
+The external contents listed via this directory are the property of their respective owners.
