@@ -19,5 +19,7 @@ Currently, the directory is structured in this way:
   - Formal Logic
 - Metaphysics
 
+
 The class100 directory is provided under a Creative Commons licence.
+
 The content shared through this directory is the property of its respective owners.
